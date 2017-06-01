@@ -1,7 +1,5 @@
 package com.learning.examples.patterns.visitor.bookstore.pojo;
 
-import java.util.Comparator;
-
 /**
  * Base class for Books.
  */
